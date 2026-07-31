@@ -9,6 +9,7 @@ const f3 = ()=>{
 };
 function main(){
    console.log("main");
+   
     f1();
     f2();
     f3();
